@@ -22,7 +22,7 @@ Then confirm:
 
 | Plugin | Description | Source |
 |---|---|---|
-| `code-cleanup` | Careful, low-risk codebase cleanup pass with a lead agent and seven specialist workers. | [atj393/code-cleanup](https://github.com/atj393/code-cleanup) |
+| `code-cleanup` | Careful, low-risk codebase cleanup pass with a lead agent and seven specialist workers. | [atj393/claude-plugin-code-cleanup](https://github.com/atj393/claude-plugin-code-cleanup) |
 
 Plugins are pinned by commit SHA — updates arrive only when this marketplace is bumped. Run `/plugin update <name>` to pull the latest pinned version.
 

@@ -6,7 +6,7 @@
       "name": "code-cleanup",
       "source": {
         "source": "github",
-        "repo": "atj393/code-cleanup"
+        "repo": "atj393/claude-plugin-code-cleanup"
       },
       "sha": "87f0afba4ca97f8f6135fae5b17b313485485cf3",
       "description": "Careful, low-risk codebase cleanup pass with a lead agent and seven specialist workers."
